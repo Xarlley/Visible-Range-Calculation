@@ -3,6 +3,6 @@
 ## Environment
 
 ```
-pip install rasterio matplotlib numpy
+pip install mpi4py rasterio numpy matplotlib
 ```
 
