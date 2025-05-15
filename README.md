@@ -7,7 +7,7 @@
 For `tif2png.py`, `viewshed.py`, `debug_dem_query.py`, `debug_circle_max.py`.
 
 ```bash
-pip install mpi4py rasterio numpy matplotlib
+pip install rasterio numpy matplotlib
 ```
 
 ### mpi version
